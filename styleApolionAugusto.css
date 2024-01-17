@@ -1,3 +1,18 @@
 *{
-    
+    background-color:brown;
 }
+h1{
+    text-align: justify;
+    color: aliceblue;
+    font-size: 100px;
+}
+
+h3{
+    text-align: justify;
+    color: aliceblue;
+}
+ p{
+    color: aliceblue;
+    text-emphasis:inherit;
+    text-align: center;
+ }
